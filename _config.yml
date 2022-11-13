@@ -59,11 +59,11 @@ plugins:
 author:
   name   : "Guanyi Yu (余冠一)"
   avatar : "/assets/images/ygy-bio-photo.jpg"
-  bio    : "Intern@MEGVII-Research"
+  bio    : "R&D-Perception@QCraft"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yuguanyi@megvii.com"
+      url: "mailto:guanyi@qcraft.ai"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Aguin"
